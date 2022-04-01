@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adrian\\Source\\Repos\\programowanie-obiektowe\\05032022\\05032022\\05032022.csproj",
-      "projectName": "05032022",
-      "projectPath": "C:\\Users\\Adrian\\Source\\Repos\\programowanie-obiektowe\\05032022\\05032022\\05032022.csproj",
+      "projectUniqueName": "C:\\Users\\Adrian\\source\\repos\\programowanie-obiektowe\\05032022\\zadanie_domowe\\zadanie_domowe.csproj",
+      "projectName": "zadanie_domowe",
+      "projectPath": "C:\\Users\\Adrian\\source\\repos\\programowanie-obiektowe\\05032022\\zadanie_domowe\\zadanie_domowe.csproj",
       "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adrian\\Source\\Repos\\programowanie-obiektowe\\05032022\\05032022\\obj\\",
+      "outputPath": "C:\\Users\\Adrian\\source\\repos\\programowanie-obiektowe\\05032022\\zadanie_domowe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",

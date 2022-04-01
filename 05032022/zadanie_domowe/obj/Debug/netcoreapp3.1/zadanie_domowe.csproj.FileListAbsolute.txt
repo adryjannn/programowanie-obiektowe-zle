@@ -1,0 +1,14 @@
+C:\Users\Adrian\source\repos\programowanie-obiektowe\05032022\zadanie_domowe\bin\Debug\netcoreapp3.1\zadanie_domowe.exe
+C:\Users\Adrian\source\repos\programowanie-obiektowe\05032022\zadanie_domowe\bin\Debug\netcoreapp3.1\zadanie_domowe.deps.json
+C:\Users\Adrian\source\repos\programowanie-obiektowe\05032022\zadanie_domowe\bin\Debug\netcoreapp3.1\zadanie_domowe.runtimeconfig.json
+C:\Users\Adrian\source\repos\programowanie-obiektowe\05032022\zadanie_domowe\bin\Debug\netcoreapp3.1\zadanie_domowe.runtimeconfig.dev.json
+C:\Users\Adrian\source\repos\programowanie-obiektowe\05032022\zadanie_domowe\bin\Debug\netcoreapp3.1\zadanie_domowe.dll
+C:\Users\Adrian\source\repos\programowanie-obiektowe\05032022\zadanie_domowe\bin\Debug\netcoreapp3.1\zadanie_domowe.pdb
+C:\Users\Adrian\source\repos\programowanie-obiektowe\05032022\zadanie_domowe\obj\Debug\netcoreapp3.1\zadanie_domowe.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\programowanie-obiektowe\05032022\zadanie_domowe\obj\Debug\netcoreapp3.1\zadanie_domowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\programowanie-obiektowe\05032022\zadanie_domowe\obj\Debug\netcoreapp3.1\zadanie_domowe.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\programowanie-obiektowe\05032022\zadanie_domowe\obj\Debug\netcoreapp3.1\zadanie_domowe.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\programowanie-obiektowe\05032022\zadanie_domowe\obj\Debug\netcoreapp3.1\zadanie_domowe.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\programowanie-obiektowe\05032022\zadanie_domowe\obj\Debug\netcoreapp3.1\zadanie_domowe.dll
+C:\Users\Adrian\source\repos\programowanie-obiektowe\05032022\zadanie_domowe\obj\Debug\netcoreapp3.1\zadanie_domowe.pdb
+C:\Users\Adrian\source\repos\programowanie-obiektowe\05032022\zadanie_domowe\obj\Debug\netcoreapp3.1\zadanie_domowe.genruntimeconfig.cache
